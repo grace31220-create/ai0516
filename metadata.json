@@ -1,0 +1,6 @@
+{
+  "name": "霓虹貪食蛇 (Neon Snake)",
+  "description": "一個使用 React、TypeScript 與 HTML5 Canvas 建立的現代化、流暢且具有霓虹視覺效果的貪食蛇遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
